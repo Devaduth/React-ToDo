@@ -2,6 +2,8 @@
 
 ## Available Scripts
 
+View this site at https://todobypxel.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
